@@ -1,0 +1,8 @@
+.field {
+  background-color: white;
+  position: relative;
+  width: 600px;
+  height: 400px;
+  cursor: crosshair;
+  border: 1px solid black;
+}
